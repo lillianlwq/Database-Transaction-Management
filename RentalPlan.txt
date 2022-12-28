@@ -1,0 +1,4 @@
+1|Basic|9.99|1
+2|Rental Plus|14.99|3
+3|Super Access|19.99|5
+4|Ultra Access|24.99|10
